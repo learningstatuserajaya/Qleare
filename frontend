@@ -1,0 +1,9 @@
+# === Qleare Frontend Environment Variables ===
+
+VITE_API_KEY=AIzaSyDxxxxxxxxxxxxxxxxxxxxxx
+VITE_AUTH_DOMAIN=qleare-hc.firebaseapp.com
+VITE_PROJECT_ID=qleare-hc
+VITE_APP_ID=1:xxxxxxxxx:web:xxxxxxxxxxxxxxxx
+VITE_MEASUREMENT_ID=G-XXXXXXXXXX
+VITE_GOOGLE_CLIENT_ID=xxxxxxxxxxxxxxxxxx.apps.googleusercontent.com
+VITE_ALLOWED_EMAIL_DOMAIN=erajaya.com
